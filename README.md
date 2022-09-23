@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VladIIIDracula
+- 👋 Hi, I’m Amin
 - 👀 I’m interested in Programing
 - 🌱 I’m currently learning PHP , JavaScript 
 - 💞️ I’m looking to collaborate on Web Devlopment
